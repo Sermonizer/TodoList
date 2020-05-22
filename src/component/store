@@ -1,0 +1,11 @@
+{
+    text: '',
+    todos: [
+        {
+            id: 1,
+            text: '',
+            completed: false
+        }
+    ],
+    filter: 'all'
+}

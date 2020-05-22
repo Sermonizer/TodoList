@@ -1,0 +1,12 @@
+[
+    {
+        "id": 100,
+        "text": "react",
+        "completed": false
+    },
+    {
+        "id": 101,
+        "text": "redux",
+        "completed": false
+    }
+]
